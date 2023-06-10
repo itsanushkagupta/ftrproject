@@ -22,8 +22,6 @@ Screenshots:- 1)By using Azure Static Web Apps Service , I have created and host
 
 ![Screenshot (895)](https://github.com/itsanushkagupta/ftrproject/assets/84274062/8b6ebffa-2ab2-43c2-811b-af4b6590335d)
 
-![Screenshot (898)](https://github.com/itsanushkagupta/ftrproject/assets/84274062/1dafabfe-c0b2-4ad7-9402-19dfb8b14678)
-
 ![Screenshot (899)](https://github.com/itsanushkagupta/ftrproject/assets/84274062/c4cd7b28-30d1-4dcd-930a-5873b9017347)
 
 ![Screenshot (900)](https://github.com/itsanushkagupta/ftrproject/assets/84274062/db8f2e74-9e92-4f0e-8d32-8d9a7bae200a)
