@@ -15,3 +15,5 @@ Through our website users will be able to get :-
 For this project, I have used Azure Services such as Azure Health Bot, Azure Static Web Apps,
 
 Screenshots:- 1)By using Azure Static Web Apps Service , I have created and hosted A health care hospital Website on Azure cloud and below are the screenshots of it:-
+![Screenshot (900)](https://github.com/itsanushkagupta/ftrproject/assets/84274062/2c476ea1-bb39-4fcb-8c7a-0f08c2ca411e)
+
