@@ -13,4 +13,5 @@ Through our website users will be able to get :-
 -OPD service
 
 For this project, I have used Azure Services such as Azure Health Bot, Azure Static Web Apps,
+
 Screenshots:- 1)By using Azure Static Web Apps Service , I have created and hosted A health care hospital Website on Azure cloud and below are the screenshots of it:-
