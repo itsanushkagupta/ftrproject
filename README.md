@@ -1,8 +1,8 @@
-iHealthcare-Health At your desk
+**iHealthcare-Health At your desk**
 
-To address the problem of access to reliable healthcare information, our website is to create an environment that  serves as a trusted source of accurate and up-to-date healthcare information. It will cover a wide range of healthcare topics, including disease information, treatment options, preventive measures, wellness tips, and lifestyle choices. This website will aim to empower individuals by providing them with the knowledge and resources necessary to make informed decisions about their health and well-being.
+To address the problem of access to reliable healthcare information, this website is to create an environment that serves as a trusted source of accurate and up-to-date healthcare information. It will cover a wide range of healthcare topics, including disease information, treatment options, preventive measures, wellness tips, and lifestyle choices. This website will aim to empower individuals by providing them with the knowledge and resources necessary to make informed decisions about their health and well-being.
 
-Through our website users will be able to get :-
+Through this website users will be able to get :-
 
 -24x7 health support Chatbot
 
@@ -12,13 +12,15 @@ Through our website users will be able to get :-
 
 -OPD service
 
+
 My project website url:- https://proud-island-0bd50e510.3.azurestaticapps.net
 
-My project video demo url:- https://drive.google.com/file/d/1o_3denaYqf9ANzvyPSOGX9ScUeGgJcFh/view?usp=sharing
 
 For this project, I have used Azure Services such as Azure Health Bot, Azure Static Web Apps,
 
-Screenshots:- 1)By using Azure Static Web Apps Service , I have created and hosted A health care  Website on Azure cloud and below are the screenshots of it:-
+Screenshots:- 
+
+1) By using Azure Static Web Apps Service , I have created and hosted A health care  Website on Azure cloud and below are the screenshots of it:-
 
 ![Screenshot (892)](https://github.com/itsanushkagupta/ftrproject/assets/84274062/3b1a21bb-5721-4799-97bb-dedbdd5d3f82)
 
@@ -30,7 +32,7 @@ Screenshots:- 1)By using Azure Static Web Apps Service , I have created and host
 
 ![Screenshot (900)](https://github.com/itsanushkagupta/ftrproject/assets/84274062/db8f2e74-9e92-4f0e-8d32-8d9a7bae200a)
 
-2)By using Azure Health Bot Service ,I've developed a chatbot that patients can use to get answers to their questions. This chatbot service has been integrated with the website so that patients may access it by clicking on Bot Services in the navigation ribbon on the home page. The screenshots of the chatbot are shown below.
+2) By using Azure Health Bot Service ,I've developed a chatbot that patients can use to get answers to their questions. This chatbot service has been integrated with the website so that patients may access it by clicking on Bot Services in the navigation ribbon on the home page. The screenshots of the chatbot are shown below.
 
 ![Screenshot (902)](https://github.com/itsanushkagupta/ftrproject/assets/84274062/16b83cd0-07c9-45ea-ae6f-4206b4c9f603)
 
